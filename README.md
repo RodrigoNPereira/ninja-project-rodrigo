@@ -19,6 +19,8 @@ The beggining of the structure was made for connecting to the BigQuery via crede
 
 After this step, with the help of matplotlib-pyplot and pandas, it's possible to obtain graphs and show the data in a intiuitive form.
 
+The graphs that were plotted with this code are in the images directory.
+
 **Instructions of use**
 
 For a personal experience and further study with data analysis, you must update the project ID with your own and changing the credentials as well. All of this is possible by creating a Google Cloud account and creating a new project.
